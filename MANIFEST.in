@@ -1,0 +1,16 @@
+include README.md
+include LICENSE
+include requirements.txt
+include config_example.env
+include example_usage.py
+include run.sh
+include commands.md
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * .DS_Store
+recursive-exclude * .git
+recursive-exclude * .gitignore
+recursive-exclude * .env
+recursive-exclude * downloaded_repos
+recursive-exclude * metadata
+recursive-exclude * code_fetcher
