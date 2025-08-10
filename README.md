@@ -13,6 +13,13 @@ A powerful Python tool that searches GitHub for repositories related to specific
 
 This project is hosted at: [https://github.com/Sreeram5678/GITHUB-Code-Fetcher.git](https://github.com/Sreeram5678/GITHUB-Code-Fetcher.git)
 
+## Status
+
+![CI](https://github.com/Sreeram5678/GITHUB-Code-Fetcher/workflows/CI/badge.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
 ## Features
 
 - **Keyword-based search**: Find repositories by topic, technology, or any search term
