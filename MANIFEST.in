@@ -1,5 +1,4 @@
 include README.md
-include LICENSE
 include requirements.txt
 include config_example.env
 include example_usage.py

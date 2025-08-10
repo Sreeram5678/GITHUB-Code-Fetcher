@@ -17,7 +17,7 @@ This project is hosted at: [https://github.com/Sreeram5678/GITHUB-Code-Fetcher.g
 
 ![CI](https://github.com/Sreeram5678/GITHUB-Code-Fetcher/workflows/CI/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 ## Features
@@ -144,7 +144,7 @@ The tool creates:
    - Programming language
    - URLs (GitHub page and clone URL)
    - Size, creation/update dates
-   - Topics and license information
+   - Topics information
    - Download timestamp
 
 ## Examples
@@ -207,9 +207,7 @@ python github_code_fetcher.py -q "microservices architecture" -l python -n 15
 - `tqdm`: Progress bars
 - `click`: Command-line interface
 
-## License
 
-This project is open source. Feel free to modify and distribute according to your needs.
 
 ## Contributing
 

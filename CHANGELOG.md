@@ -40,7 +40,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release of GitHub Code Fetcher
 - Core functionality for searching and downloading GitHub repositories
 - Comprehensive documentation and examples
-- MIT License
 - Setup and packaging configuration
 
 ---
@@ -53,7 +52,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
