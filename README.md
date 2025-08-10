@@ -207,6 +207,10 @@ python github_code_fetcher.py -q "microservices architecture" -l python -n 15
 - `tqdm`: Progress bars
 - `click`: Command-line interface
 
+## License
+
+For licensing information, please contact Sreeram at sreeram.lagisetty@gmail.com
+
 
 
 ## Contributing
